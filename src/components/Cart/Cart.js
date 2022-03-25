@@ -3,11 +3,11 @@ import SelectedProduct from '../SelectedProduct/SelectedProduct';
 import "./Cart.css";
 
 const Cart = ({selectedProducts,handleChoose}) => {
-    
+
 
     return (
         <div className='cart'>
-            <h2 className='cart-title'>Selected Clothes</h2>
+            <h2 className='cart-title'>Selected Books</h2>
             <div className="selected-product">
             {selectedProducts.map(product => <SelectedProduct key={Math.random()*10000} selectedProduct={product}></SelectedProduct>)}
             </div>
