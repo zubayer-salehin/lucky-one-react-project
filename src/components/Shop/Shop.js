@@ -24,13 +24,23 @@ const Shop = () => {
         }
     }
 
+    const handleChoose = () => {
+        const randomNumber = Math.floor(Math.random()*cartProduct.length);
+        for (let index = 0; index < cartProduct.length; index++) {
+            if(index === randomNumber){
+                setCartProduct([cartProduct[index]]);
+                break;
+            }
+        }
+    }
+
     return (
         <div className='shop'>
             <div className="shopping-products">
                 {products.map(product => <Product key={Math.random()*10000} product={product} handleAddToCart={handleAddToCart}></Product>)}
             </div>
             <div className="shopping-cart">
-                <Cart selectedProducts={cartProduct}></Cart>
+                <Cart selectedProducts={cartProduct} handleChoose={handleChoose}></Cart>
             </div>
         </div>
     );
