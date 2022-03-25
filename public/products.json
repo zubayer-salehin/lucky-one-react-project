@@ -1,74 +1,74 @@
 [
     {
       "id": 1,
-      "name": "Leanne Graham",
-      "price": 1520,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "iphone 13 mini",
+      "price": 120000,
+      "img": "https://images.unsplash.com/photo-1604054923518-e491a9a6afbb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 2,
-      "name": "Leanne Graham2",
-      "price": 2654,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Nova Y60 5G",
+      "price": 15254,
+      "img": "https://images.unsplash.com/photo-1595514377985-fc9fe1d44f93?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1480&q=80"
     },  
     {
       "id": 3,
-      "name": "Leanne Graham3",
-      "price": 1452,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Galaxy S22+ 5G",
+      "price": 101452,
+      "img": "https://images.unsplash.com/photo-1525707354884-c46a90dbc336?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 4,
-      "name": "Leanne Graham4",
-      "price": 2412,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "iPhone XS Max",
+      "price": 80412,
+      "img": "https://images.unsplash.com/photo-1570552047082-ece4390cc6f9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=591&q=80"
     },  
     {
       "id": 5,
-      "name": "Leanne Graham5",
-      "price": 1247,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Galaxy S22 5G",
+      "price": 12247,
+      "img": "https://images.unsplash.com/photo-1571398159775-07de36363b79?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 6,
-      "name": "Leanne Graham6",
-      "price": 2636,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Reno7 Pro 5G",
+      "price": 26316,
+      "img": "https://images.unsplash.com/photo-1595284843291-e8d7eb9ebe27?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 7,
-      "name": "Leanne Graham7",
-      "price": 2514,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Sony 6Pro Lite",
+      "price": 25214,
+      "img": "https://images.unsplash.com/photo-1533156430273-a2cf57b09495?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1481&q=80"
     },  
     {
       "id": 8,
-      "name": "Leanne Graham8",
-      "price": 8458,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Nova 8 SE Youth",
+      "price": 84458,
+      "img": "https://images.unsplash.com/photo-1521571899149-7423fb300e78?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 9,
-      "name": "Leanne Graham9",
-      "price": 6584,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Mate 40 Pro 4G",
+      "price": 65484,
+      "img": "https://images.unsplash.com/photo-1594905574370-83909403d3fb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 10,
-      "name": "Leanne Graham10",
-      "price": 3215,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Hustel 8Pro 5G",
+      "price": 32151,
+      "img": "https://images.unsplash.com/photo-1545947597-7975c1d364eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 11,
-      "name": "Leanne Graham11",
-      "price": 4257,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "P50 Pocket",
+      "price": 42257,
+      "img": "https://images.unsplash.com/photo-1551650992-ee4fd47df41f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },  
     {
       "id": 12,
-      "name": "Leanne Graham12",
-      "price": 3625,
-      "img": "https://images.unsplash.com/photo-1544947950-fa07a98d237f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1374&q=80"
+      "name": "Find X5 Lite",
+      "price": 36245,
+      "img": "https://images.unsplash.com/photo-1545063328-c8e3faffa16f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=582&q=80"
     }
 ]      

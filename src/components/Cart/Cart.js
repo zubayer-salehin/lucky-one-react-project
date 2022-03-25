@@ -7,7 +7,7 @@ const Cart = ({selectedProducts,handleChoose,handleChooseAgain}) => {
 
     return (
         <div className='cart'>
-            <h2 className='cart-title'>Selected Books</h2>
+            <h2 className='cart-title'>Selected Phones</h2>
             <div className="selected-product">
             {selectedProducts.map(product => <SelectedProduct key={Math.random()*10000} selectedProduct={product}></SelectedProduct>)}
             </div>
