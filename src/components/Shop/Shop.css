@@ -1,5 +1,5 @@
 .shop{
-    margin-top:25px;
+    margin:25px 0px;
     display: grid;
     grid-template-columns: 3fr 1fr
 }
