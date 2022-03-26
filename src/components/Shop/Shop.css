@@ -14,3 +14,16 @@
 .shopping-cart{
     background-color: #ddd;
 }
+
+@media (max-width: 576px) {
+    .shop{
+        grid-template-columns: 1fr;
+    }
+    .shopping-products{
+        margin:25px;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .shopping-cart{
+       margin:0px 25px 25px;
+    }
+}
