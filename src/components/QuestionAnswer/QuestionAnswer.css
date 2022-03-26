@@ -1,0 +1,20 @@
+.container-title{
+    margin:35px 0px 15px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+.question{
+    padding:10px 0px;
+    margin:0px;
+}
+
+.answer{
+    color:gray;
+    margin:0px 0px 16px;
+}
+
+.container{
+    margin:25px 45px 25px;
+}
